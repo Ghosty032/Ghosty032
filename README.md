@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghosty032
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in expolring Data analtyics
+- 🌱 I’m currently learning MAchine learning
 - 💞️ I’m looking to collaborate on python programming and ofc learning
 - 📫 How to reach me @tsanskaar@gmail.com
 
