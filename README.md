@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanskaar.
 - 👀 I’m interested in expolring Business analtyics || Data Analytics || Data Engineering .
 - 🌱 I’m currently learning Machine learning.
-- 💞️ I’m looking to collaborate on Data Science and Data anylsis projects.
+- 💞️ I’m looking to collaborate on Data Science and Data analysis projects.
 - 📫 Reach me via @tsanskaar@gmail.com.
 
 <!---
