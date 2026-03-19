@@ -8,7 +8,7 @@ Open to **remote AI/ML internships**.
 
 ### My Projects
 
-### 🛍️ [FashAr-V2](https://github.com/tsanskaar/fashar-v2)
+### 🛍️ [FashAr-V2]((https://github.com/Ghosty032/FashAr-V2))
 AI styling & outfit recommendation platform  
 `Next.js` `FastAPI` `LangGraph` `NVIDIA NIM` `Pinecone` `RAG`
 
