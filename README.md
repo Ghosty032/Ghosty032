@@ -3,7 +3,7 @@ I build AI-powered apps — end to end, from model to deployment.
 Currently finishing my B.Tech (ECE + AI Minor) at MAIT, graduating May 2026.
 Open to remote AI/ML internships.
 
-🔨 What I've shipped
+My Projects
 🛍️ FashAr-V2
 AI styling & outfit recommendation platform
 Next.js FastAPI LangGraph NVIDIA NIM Pinecone RAG
