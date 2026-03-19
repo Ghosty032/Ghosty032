@@ -6,7 +6,7 @@ Open to **remote AI/ML internships**.
 
 ---
 
-## 🔨 What I've shipped
+My Projects
 
 ### 🛍️ [FashAr-V2](https://github.com/tsanskaar/fashar-v2)
 AI styling & outfit recommendation platform  
