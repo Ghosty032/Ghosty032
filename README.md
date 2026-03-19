@@ -50,12 +50,10 @@ Deep learning model for early retinal disease detection
 
 ---
 
-## 📬 Let's connect
+## 📬 Connect with me:
 
 I'm actively looking for **remote AI/ML internships** — happy to chat about what I'm building or what you're working on.
 
 - 📧 tsanskaar@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/sanskaar-thukral)
-- 🌐 Portfolio — coming soon
+- 💼 [LinkedIn]([https://linkedin.com/in/sanskaar-thukral](https://www.linkedin.com/in/sanskaar-thukral-128118253/))
 
-> *"The best way to show you can build is to just... build."*
