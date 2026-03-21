@@ -2,7 +2,7 @@
 
 I build AI-powered apps — end to end, from model to deployment.  
 Currently finishing my B.Tech (ECE + AI Minor) at MAIT, graduating May 2026.  
-Open to **remote AI/ML internships**. 
+Open to **AI/ML internships**. 
 
 ---
 
