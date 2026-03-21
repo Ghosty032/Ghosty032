@@ -8,7 +8,7 @@ Open to **AI/ML internships**.
 
 ### My Projects
 
-### 🛍️ [FashAr-V2](https://github.com/Ghosty032/FashAr-V2)
+### 🛍️ [FashAr-V2](https://github.com/Ghosty032/FashAr-V2):
 AI styling & outfit recommendation platform  
 `Next.js` `FastAPI` `LangGraph` `NVIDIA NIM` `Pinecone` `RAG`
 
@@ -19,7 +19,7 @@ AI styling & outfit recommendation platform
 
 ---
 
-### 📚 [VaultFlow.ai](https://github.com/Ghosty032/Vaultflow-ai)
+### 📚 [VaultFlow.ai](https://github.com/Ghosty032/Vaultflow-ai):
 Multi-format AI knowledge base & learning roadmap generator  
 `Next.js` `FastAPI` `Supabase` `pgvector` `NVIDIA NIM` `NetworkX`
 
@@ -30,7 +30,7 @@ Multi-format AI knowledge base & learning roadmap generator
 
 ---
 
-### 🧠 [Retinal OCT Classifier](https://github.com/tsanskaar/retinal-oct)
+### 🧠 [Retinal OCT Classifier](https://github.com/tsanskaar/retinal-oct):
 Deep learning model for early retinal disease detection  
 `Python` `CNN` `TensorFlow` `Flask` `Tailwind CSS`
 
@@ -40,7 +40,7 @@ Deep learning model for early retinal disease detection
 
 ---
 
-## 🧰 Stack I work with
+## 🧰 Stack I am comfortable with:
 
 **AI/ML:** RAG Pipelines · LangGraph · Transformers · CNNs · NVIDIA NIM · Scikit-learn · TensorFlow  
 **Backend:** FastAPI · Flask · Python  
