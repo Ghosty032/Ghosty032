@@ -52,7 +52,7 @@ Deep learning model for early retinal disease detection
 
 ## 📬 Connect with me:
 
-I'm actively looking for **remote AI/ML internships** — happy to chat about what I'm building or what you're working on.
+I'm actively looking for **AI/ML internships** — happy to chat about what I'm building or what you're working on.
 
 - 📧 tsanskaar@gmail.com  
 - 💼 [LinkedIn]([https://linkedin.com/in/sanskaar-thukral](https://www.linkedin.com/in/sanskaar-thukral-128118253/))
