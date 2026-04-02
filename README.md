@@ -4,7 +4,7 @@ I build Full stack apps powered by AI, from model to deployment.
 Currently finishing my B.Tech (ECE + AI Minor) at MAIT, graduating June 2026.  
 
 ---
-![LeetCode Stats](https://leetcode-stats-github.vercel.app/?username=tsanskaar&theme=dark)
+
 ### My Projects
 
 ### 🛍️ [FashAr-V2](https://github.com/Ghosty032/FashAr-V2):
