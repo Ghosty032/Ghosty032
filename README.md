@@ -1,7 +1,7 @@
 # Hey, I'm Sanskaar 👋
 
 I build Full stack apps powered by AI, from model to deployment.  
-Currently finishing my B.Tech (ECE + AI Minor) at MAIT, graduating June 2026.  
+Graduate B.Tech (ECE + AI Minor) at MAIT,  
 
 ---
 
