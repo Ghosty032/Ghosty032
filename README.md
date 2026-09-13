@@ -9,14 +9,19 @@ Currently an **AI Engineer Intern at Durbeen Fintech**, where I ship production 
 
 ### What I'm working on
 
-**Durbeen Fintech** | AI Engineer Intern
-`Next.js 16` `React 19` `FastAPI` `SQLAlchemy` `Postgres` `TypeScript` `Docker`
+**[Durbeen Fintech](ADD_LIVE_URL_HERE)** | AI Engineer Intern | March 2026 to present
 
-- Shipped a full-stack financial planning platform with 5 interactive calculators, used company-wide and deployed on Vercel and Railway
+*Financial planning platform* &nbsp;`Next.js 16` `React 19` `FastAPI` `SQLAlchemy` `Postgres` `TypeScript`
+
+- Designed and shipped the platform end to end, including 5 interactive financial calculators, used company-wide and deployed on Vercel and Railway
 - Ported the authoritative Python calculation engine to client-side TypeScript and validated both against shared test vectors, so on-screen figures provably match the backend
-- CI gate on GitHub Actions (18 automated tests plus type checking) that caught a missing production dependency before it shipped
 - 5-stage LLM pipeline turning an uploaded portfolio into a narrated report, orchestrating 2 NVIDIA NIM models with token-streamed NDJSON/SSE to the browser
-- Self-hosted n8n automation in Docker that scrapes and parses news sources into a structured headline feed used daily by the social media team
+
+*Internal tooling and automation* &nbsp;`n8n` `Docker` `GitHub Actions` `Python`
+
+- Self-hosted n8n workflow in Docker that scrapes and parses news sources on a schedule, extracting headlines into a structured feed the social media team uses daily for visuals and post drafts
+- CI gate on GitHub Actions running 18 automated tests plus type checking, which caught a missing production dependency before it shipped
+- Python scraping pipeline for real-time financial data extraction across multiple sources
 
 ---
 
